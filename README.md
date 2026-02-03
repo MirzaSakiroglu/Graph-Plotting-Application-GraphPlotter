@@ -1,6 +1,6 @@
 # GraphPlotter - Grafik Oluşturma Uygulaması
 
-**GraphPlotter**, matematiksel fonksiyonları görselleştirmek ve analiz etmek için geliştirilmiş, Python tabanlı bir masaüstü uygulamasıdır. Kullanıcı dostu arayüzü sayesinde karmaşık denklemleri saniyeler içinde 2D grafiklere dönüştürür.
+**GraphPlotter**, matematiksel fonksiyonları görselleştirmek ve analiz etmek için geliştirilmiş, Python tabanlı bir masaüstü uygulamasıdır. Kullanıcı dostu arayüzü sayesinde karmaşık verileri saniyeler içinde 2D grafiklere dönüştürür.
 
 ---
 
