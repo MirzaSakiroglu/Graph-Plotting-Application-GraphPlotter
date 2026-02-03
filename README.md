@@ -29,17 +29,20 @@ This project was developed with the following open-source Python libraries:
 Follow the steps below to run the project on your local machine:
 
 1.  **Clone the Repository**
+   
     ```bash
     git clone [https://github.com/MirzaSakiroglu/Grafik-Olusturma-Uygulamasi-GraphPlotter.git](https://github.com/MirzaSakiroglu/Grafik-Olusturma-Uygulamasi-GraphPlotter.git)
     cd Grafik-Olusturma-Uygulamasi-GraphPlotter
     ```
 
 3.  **Install Required Libraries**
+   
     ```bash
     pip install matplotlib numpy
     ```
 
-4.  **Start the Application**
+5.  **Start the Application**
+   
     ```bash
     python main.py
     ```
