@@ -47,11 +47,8 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 ## 📖 Kullanım Kılavuzu
 
 1.  Uygulamayı açın.
-2.  **"Fonksiyon"** alanına çizdirmek istediğiniz denklemi girin (Örn: `x**2 + 2*x - 5`).
-    * *Not: Çarpma işlemi için `*`, üs alma işlemi için `**` kullanın.*
-3.  **X Ekseni** için minimum ve maksimum değerleri girin.
-4.  **"Grafiği Çiz"** butonuna tıklayın.
-5.  Grafik penceresindeki araç çubuğunu kullanarak grafiği inceleyin veya kaydedin.
+2.  Verilerin import edileceği dosyayı yükleyin.
+3.  Hangi grafik tipini kullanmak istediğinizi seçin
 
 ## 🤝 Katkıda Bulunma
 
